@@ -4,11 +4,7 @@ In this repository you find the Matlab code that has generated the numerical plo
 
 ### Abstract
 
-We study stationary, periodic solutions to the thermocapillary thin-film model
-$$
-\partial_t h + \partial_x \Bigl(h^3(\partial_x^3 h - g\partial_x h) + M\frac{h^2}{(1+h)^2}\partial_xh\Bigr) = 0,\quad t>0,\ x\in \mathbb{R},
-$$
-which can be derived from the Bénard--Marangoni problem via a lubrication approximation. When the Marangoni number $M$ increases beyond a critical value $M^*$, the constant solution becomes spectrally unstable via a (conserved) long-wave instability and periodic stationary solutions bifurcate. For a fixed period, we find that these solutions lie on a global bifurcation curve of stationary, periodic solutions with a fixed wave number and mass. Furthermore, we show that the stationary periodic solutions on the global bifurcation branch converge to a weak stationary periodic solution which exhibits film rupture. The proofs rely on a Hamiltonian formulation of the stationary problem and the use of analytic global bifurcation theory. Finally, we show the instability of the bifurcating solutions close to the bifurcation point and give a formal derivation of the amplitude equation governing the dynamics close to the onset of instability. 
+We study stationary, periodic solutions to the thermocapillary thin-film model $$\partial_t h + \partial_x \Bigl(h^3(\partial_x^3 h - g\partial_x h) + M\frac{h^2}{(1+h)^2}\partial_xh\Bigr) = 0,\quad t>0,\ x\in \mathbb{R},$$ which can be derived from the Bénard--Marangoni problem via a lubrication approximation. When the Marangoni number $M$ increases beyond a critical value $M^*$, the constant solution becomes spectrally unstable via a (conserved) long-wave instability and periodic stationary solutions bifurcate. For a fixed period, we find that these solutions lie on a global bifurcation curve of stationary, periodic solutions with a fixed wave number and mass. Furthermore, we show that the stationary periodic solutions on the global bifurcation branch converge to a weak stationary periodic solution which exhibits film rupture. The proofs rely on a Hamiltonian formulation of the stationary problem and the use of analytic global bifurcation theory. Finally, we show the instability of the bifurcating solutions close to the bifurcation point and give a formal derivation of the amplitude equation governing the dynamics close to the onset of instability. 
 
 ### pde2path
 
