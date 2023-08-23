@@ -1,6 +1,6 @@
 # Thermocapillary thin films: periodic steady states and film rupture
 
-In this repository you find the Matlab code that has generated the numerical plots used in the preprint [arXiv:](link here).
+In this repository you find the Matlab code that has generated the numerical plots used in the preprint [arXiv:2308.11279](https://arxiv.org/abs/2308.11279).
 
 ### Abstract
 
