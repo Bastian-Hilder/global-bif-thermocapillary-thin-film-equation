@@ -1,6 +1,6 @@
 # Thermocapillary thin films: periodic steady states and film rupture
 
-In this repository you find the Matlab code that has generated the numerical plots used in the preprint [arXiv:2308.11279](https://arxiv.org/abs/2308.11279).
+In this repository you find the Matlab code that has generated the numerical plots used in the article "Thermocapillary thin films: periodic steady states and film rupture" by Gabriele Bruell, Bastian Hilder and Jonas Jansen. The journal version is available open-access at [DOI:10.1088/1361-6544/ad2a8a](https://doi.org/10.1088/1361-6544/ad2a8a) and a preprint can be found at [arXiv:2308.11279](https://arxiv.org/abs/2308.11279).
 
 ### Abstract
 
